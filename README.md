@@ -33,7 +33,7 @@ Assicurati che i tool di base siano installati (solitamente presenti di default)
 2.  **Installa le dipendenze Python:**
     Si consiglia l'uso di un ambiente virtuale, ma puoi installare direttamente tramite:
     ```bash
-    pip install PyQt6
+    sudo pip install PyQt6 (in alcuni casi devi aggiungere anche --break-system-packages oppure sudo apt install python3-PyQt6 oppure sudo pacman -S python-PyQt6)
     ```
 
 ## 🚥 Come Avviare
