@@ -26,7 +26,7 @@ Assicurati che i tool di base siano installati (solitamente presenti di default)
 
 1.  **Clona il repository:**
     ```bash
-    git clone [https://github.com/Ak1r4Yuk1/Iptables-GUI.git](https://github.com/Ak1r4Yuk1/Iptables-GUI.git)
+    git clone https://github.com/Ak1r4Yuk1/Iptables-GUI
     cd Iptables-GUI
     ```
 
