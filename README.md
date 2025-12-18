@@ -33,9 +33,10 @@ Assicurati che i tool di base siano installati (solitamente presenti di default)
 2.  **Installa le dipendenze Python:**
     Si consiglia l'uso di un ambiente virtuale, ma puoi installare direttamente tramite:
     ```bash
-    sudo pip install PyQt6 (in alcuni casi devi aggiungere anche --break-system-packages oppure sudo apt install python3-PyQt6 oppure sudo pacman -S python-PyQt6)
+    sudo pip install PyQt6
     ```
-
+   Nota: in alcuni casi devi aggiungere anche --break-system-packages oppure sudo apt install python3-PyQt6 oppure sudo pacman -S python-PyQt6
+   
 ## 🚥 Come Avviare
 
 Poiché `iptables` interagisce direttamente con il kernel Linux, il programma richiede **privilegi di root**.
